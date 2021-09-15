@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"name": "Visual Studio Code",
+			"path": "..\\..\\Visual Studio Code"
+		},
+		{
+			"path": "..\\..\\Desktop\\flexbox"
+		},
+		{
+			"path": "..\\..\\Desktop\\Example 1"
+		},
+		{
+			"path": "..\\..\\Desktop\\Example 2"
+		},
+		{
+			"path": "..\\..\\Desktop\\Example 3"
+		},
+		{
+			"path": "..\\..\\Desktop\\Ridiculous example 1"
+		},
+		{
+			"path": "..\\..\\Desktop\\Ridiculous example 2"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Master Course"
+	}
+}
